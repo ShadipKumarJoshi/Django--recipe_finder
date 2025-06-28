@@ -26,4 +26,4 @@ py manage.py runserver
 
 This project uses an [Spoonacular API](https://spoonacular.com/food-api/console#Dashboard) API key. To run the project, create a `.env` file in the root directory and add the following:
 
-NEWS_API_KEY="your_actual_api_key_here"
+SPOONACULAR_API_KEY="your_actual_api_key_here"
